@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 23, 2015, 9:52:09 AM
+    Author     : westleya
+*/
+
+body{
+        
+	margin: 10;
+
+}
+#content{
+	max-width: 948px;
+	margin: 1 auto;
+
+}
+.myname{
+        flex-align: auto;
+	font-size: 48px;
+	font-family: "Arial";
+	padding: 0px 20px;
+	text-align: right;
+        margin-left: 200px;
+	
+}
+
+
+
+h1 {
+	color: #f8981C;
+	font-size: 36px;
+	font-family: "Courier New";
+	padding: 0px 20px;
+	font-weight: normal;
+}
+.logo{
+	border: 10px;
+	margin: 10px;	
+}
+.description{
+	border: 10px;
+	margin: 10px;
+}
+.featuredwork{
+	font-size: 28px
+}
+.projectpic{
+	
+}
+header{
+	text-align: right;
+}
+hr{
+	line-height: 3px;
+  
+	color: #bcbbbb;
+}
+.projectrow{
+	display: flex;
+	height: 50%;
+}
+.projectcol1{
+	border: 10px;
+	margin: 10px;
+}
+.projectcol2{
+	border: 10px;
+	margin: 10px;
+}
+
+.featuredwork{
+		font-size: 28px;
+		color: #bcbbbb;
+}
+.row {
+	display: flex;
+	height: 50%;
+	text-align: right;
+}	
+.image > img {
+	border: 4px solid #f8981C;
+	margin: 20px;
+}
